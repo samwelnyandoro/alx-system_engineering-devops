@@ -100,14 +100,3 @@
 <li>The flags that were used</li>
 </ul></li>
 </ul><p>You can find a <a href="/rltoken/-bCdhVbuNqcKmNzUmFtWBg" target="_blank" title="log file here">log file here</a>.</p><p>Example:</p>
-
-
-<h4 class="task">
-    9. Pass LinkedIn technical interview level0
-      <span class="alert alert-info mandatory-optional">
-        #advanced
-      </span>
-</h4><p>One way to get started in getting a Software Engineering job at LinkedIn is to solve their regex puzzle.</p><p>Requirements:</p><ul>
-<li>Solve LinkedIn regex puzzle: <a href="/rltoken/u2xzwrPyylRY7dpGJJ9P-Q" target="_blank" title="https://engineering.linkedin.com/puzzle">https://engineering.linkedin.com/puzzle</a></li>
-<li>Provide as an answer file a screenshot containing your contact information, including your Holberton email address</li>
-</ul><p>Example:</p><p><img alt="Sylvain Kalache passed LinkedIn regex challenge" src="https://s3.amazonaws.com/holbertonintranet/files/correction_system/78/sylvain-kalache-regex-linkedin.png"/></p><p>Well, I guess I can get into LinkedIn hiring process:</p><p><img alt="passed Linkedin regex challenge" src="https://s3.amazonaws.com/holbertonintranet/files/correction_system/78/passed-linkedin-regex-challenge.gif"/></p>
